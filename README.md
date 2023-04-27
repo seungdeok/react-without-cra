@@ -11,7 +11,7 @@
 ## CRA 없이 React 개발 환경 구축
 
 개인 프로젝트
-개발기간: 23.04 ~
+개발기간: 23.04
 
 <br />
 
@@ -75,7 +75,17 @@ $ npm run start
 #### 디렉토리 구조.
 
 ```
-
+📦react-without-cra
+ ┣ 📂src
+ ┃ ┣ 📜App.jsx
+ ┃ ┗ 📜index.jsx
+ ┣ 📜.gitignore
+ ┣ 📜README.md
+ ┣ 📜babel.config.js
+ ┣ 📜index.html
+ ┣ 📜package-lock.json
+ ┣ 📜package.json
+ ┗ 📜webpack.config.js
 ```
 
 <br />
