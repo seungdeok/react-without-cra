@@ -33,9 +33,10 @@
 
 ### 시작 가이드.
 
-####Requirements
+#### Requirements
+
 For building and running the application you need:
-[Node.js 16.14.2](https://nodejs.org/en/blog/release/v16.14.2)
+[Node.js](https://nodejs.org/en)
 
 <br />
 
